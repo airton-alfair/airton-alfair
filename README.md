@@ -21,7 +21,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="gif" height="100" width="100" src="https://github.com/user-attachments/assets/0b47e2fd-e660-4630-8c04-b3eb51a673da" />
+  <img align="right" alt="gif" height="100" width="150" src="https://github.com/user-attachments/assets/74090309-13f8-4f8f-806a-bda1f1743296" />
 </div>
 
 
