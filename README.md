@@ -9,7 +9,7 @@
     height="150" width="450"  alt="Top Languages" />
 </div>
 
-##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -24,5 +24,5 @@
   <img align="right" alt="gif" height="100" width="150" src="https://github.com/user-attachments/assets/74090309-13f8-4f8f-806a-bda1f1743296" />
 </div>
 
-
+##
 
